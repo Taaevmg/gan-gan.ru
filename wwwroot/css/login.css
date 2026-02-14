@@ -1,0 +1,50 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+.form-floating > .form-control-plaintext::placeholder, .form-floating > .form-control::placeholder {
+  color: var(--bs-secondary-color);
+  text-align: end;
+}
+
+.form-floating > .form-control-plaintext:focus::placeholder, .form-floating > .form-control:focus::placeholder {
+  text-align: start;
+}
+
+.container {
+    display: flex;
+    justify-content: center; /* Горизонтальное центрирование */
+    align-items: center;     /* Вертикальное центрирование */
+    min-height: 100vh;       /* На всю высоту экрана */
+}
+
+.box {
+    width: 200px;
+  height: 100px;
+  background: #a2d0ee;
+  border-radius: 20px; /* Все 4 угла закруглены на 20px */
+  
+  display: flex;
+  justify-content: center; /* Горизонтальное центрирование */
+  /*align-items: center;     /* Вертикальное центрирование */
+  min-height: 80vh;       /* На всю высоту экрана */
+}

@@ -96,6 +96,8 @@ C:\mainG\Project\SAIT C#\MySiat v 0.2\gan-gan\obj\Debug\net10.0\gan-gan.pdb
 C:\mainG\Project\SAIT C#\MySiat v 0.2\gan-gan\obj\Debug\net10.0\gan-gan.genruntimeconfig.cache
 C:\mainG\Project\SAIT C#\MySiat v 0.2\gan-gan\obj\Debug\net10.0\ref\gan-gan.dll
 C:\mainG\Project\SAIT C#\MySiat v 0.2\gan-gan\obj\Debug\net10.0\compressed\dii9hctjuy-{0}-89r4ldusvh-89r4ldusvh.gz
-C:\mainG\Project\SAIT C#\MySiat v 0.2\gan-gan\obj\Debug\net10.0\compressed\ufktcsr73f-{0}-ajf4vb6aj6-ajf4vb6aj6.gz
 C:\mainG\Project\SAIT C#\MySiat v 0.2\gan-gan\obj\Debug\net10.0\compressed\ie76bnuu2s-{0}-r0z2qdqnpk-r0z2qdqnpk.gz
 C:\mainG\Project\SAIT C#\MySiat v 0.2\gan-gan\obj\Debug\net10.0\compressed\7nl6fokxnu-{0}-5ipweew5fc-5ipweew5fc.gz
+C:\mainG\Project\SAIT C#\MySiat v 0.2\gan-gan\obj\Debug\net10.0\gan-gan.sourcelink.json
+C:\mainG\Project\SAIT C#\MySiat v 0.2\gan-gan\obj\Debug\net10.0\compressed\kyahm78wnb-{0}-oo0r2n38ui-oo0r2n38ui.gz
+C:\mainG\Project\SAIT C#\MySiat v 0.2\gan-gan\obj\Debug\net10.0\compressed\ufktcsr73f-{0}-0cja7w2bu5-0cja7w2bu5.gz
